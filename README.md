@@ -20,20 +20,18 @@ This repository serves as the **central showcase** for the project, with links t
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-- React (TypeScript), Tailwind CSS  
-- Reusable UI components  
-- Intelligent URL-type detection  
-- Rich embeds: YouTube, Vimeo, Twitter/X, Google Docs, images  
+- React (TypeScript)
+- Tailwind CSS  
 
 **Backend:**  
-- Node.js (Express + TypeScript)  
-- JWT authentication, bcrypt hashing  
-- Secure share-link generation with automatic expiration  
-- MongoDB with optimized schemas  
+- Node.js 
+- Express.js  
+- TypeScript  
+- MongoDB  
 
 **Deployment:**  
 - AWS EC2  
-- NGINX reverse proxy  
+- NGINX
 
 ---
 
